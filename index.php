@@ -57,6 +57,63 @@
     </div>
 </section>
 
+<section class="skills">
+    <h2>Skills</h2>
+
+    <div class="skills-container">
+        <div class="skill">HTML</div>
+        <div class="skill">CSS</div>
+        <div class="skill">JavaScript</div>
+        <div class="skill">PHP</div>
+        <div class="skill">MySQL</div>
+        <div class="skill">React</div>
+        <div class="skill">Node.js</div>
+        <div class="skill">MongoDB</div>
+        <div class="skill">Git & GitHub</div>
+    </div>
+</section>
+
+<section class="education">
+    <h2>Education</h2>
+
+    <div class="edu-card">
+        <h3>Bachelor of Information Technology</h3>
+        <p>University of Moratuwa</p>
+        <span>Final Year Undergraduate</span>
+    </div>
+</section>
+
+<section class="experience">
+    <h2>Experience</h2>
+
+    <div class="exp-card">
+        <h3>System Engineer Intern</h3>
+        <p>Metropolitan Technologies (Pvt) Ltd</p>
+        <span>2024 - Present</span>
+    </div>
+
+    <div class="exp-card">
+        <h3>Freelance Web Developer</h3>
+        <p>Worked on MERN stack and PHP projects</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact Me</h2>
+
+    <form action="#" method="POST">
+
+        <input type="text" placeholder="Your Name" required>
+
+        <input type="email" placeholder="Your Email" required>
+
+        <textarea placeholder="Your Message"></textarea>
+
+        <button type="submit">Send Message</button>
+
+    </form>
+</section>
+
 <footer>
     <p>© 2026 Ninuka Nethnidu</p>
 </footer>
