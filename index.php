@@ -83,6 +83,51 @@
     </div>
 </section>
 
+<section class="experience">
+    <h2>Experience</h2>
+
+    <div class="exp-card">
+        <h3>System Engineer Intern</h3>
+        <p>Metropolitan Technologies (Pvt) Ltd</p>
+        <span>2024 - Present</span>
+    </div>
+
+    <div class="exp-card">
+        <h3>Freelance Web Developer</h3>
+        <p>Worked on MERN stack and PHP projects</p>
+    </div>
+</section>
+
+<section class="experience">
+    <h2>Experience</h2>
+
+    <div class="exp-card">
+        <h3>System Engineer Intern</h3>
+        <p>Metropolitan Technologies (Pvt) Ltd</p>
+        <span>2024 - Present</span>
+    </div>
+
+    <div class="exp-card">
+        <h3>Freelance Web Developer</h3>
+        <p>Worked on MERN stack and PHP projects</p>
+    </div>
+</section>
+
+<section class="experience">
+    <h2>Experience</h2>
+
+    <div class="exp-card">
+        <h3>System Engineer Intern</h3>
+        <p>Metropolitan Technologies (Pvt) Ltd</p>
+        <span>2024 - Present</span>
+    </div>
+
+    <div class="exp-card">
+        <h3>Freelance Web Developer</h3>
+        <p>Worked on MERN stack and PHP projects</p>
+    </div>
+</section>
+
 <section class="contact">
     <h2>Contact Me</h2>
 
